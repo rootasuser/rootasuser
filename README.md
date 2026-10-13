@@ -53,7 +53,7 @@
     </tr>
     <tr>
       <td><strong>Experience</strong></td>
-      <td>IT roles, freelance development, and on-the-job training</td>
+      <td>Administrative Support, freelance development, and on-the-job training</td>
     </tr>
     <tr>
       <td><strong>Location</strong></td>
