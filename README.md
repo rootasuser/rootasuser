@@ -57,7 +57,7 @@
     </tr>
     <tr>
       <td><strong>Location</strong></td>
-      <td>Philippines</td>
+      <td>Bayawan City, Negros Oriental, Philippines</td>
     </tr>
   </table>
 </div>
