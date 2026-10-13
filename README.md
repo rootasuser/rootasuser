@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Projects-13-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Technologies-12-3178C6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Certifications-3-FFDF5D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Years_in_IT-2%2B-34D399?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Years_in_IT-5+_Years-34D399?style=for-the-badge" />
 </p>
 
 ---
