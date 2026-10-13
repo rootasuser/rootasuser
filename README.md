@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/00000000/profile.png" alt="Windel Navales banner" />
-</div>
+</div> -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Windel+Navales" alt="Windel Navales" />
