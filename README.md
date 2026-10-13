@@ -3,7 +3,18 @@
 </div> -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Windel+Navales" alt="Windel Navales" />
+  <picture>
+    <!-- Dark theme: white text -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Windel+Navales"
+    />
+    <!-- Light theme (fallback): dark text -->
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=0A0A0A&center=true&vCenter=true&width=700&lines=Windel+Navales"
+      alt="Windel Navales"
+    />
+  </picture>
 </h1>
 
 <p align="center">
