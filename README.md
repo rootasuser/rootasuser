@@ -117,6 +117,7 @@ My goal is to develop practical, user-friendly, and maintainable solutions that 
 ### Real-Time Communication
 <p>
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
+  <img src="https://img.shields.io/badge/Google%20STUN-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google STUN" />
 </p>
 
 ## Technical Skills & Integrations
