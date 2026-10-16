@@ -42,7 +42,7 @@ My goal is to develop practical, user-friendly, and maintainable solutions that 
 |---|---|
 | **Role** | Web Application Developer |
 | **Focus** | Web applications, management systems, productivity tools, integrations, and automation |
-| **Experience** | DepEd IT Support/Web Developer, Lynx World Internet Zone Computer Attendant, freelance developer, and on-the-job training |
+| **Experience** | DepEd IT Support/Web/App Developer, Lynx World Internet Zone Computer Attendant, freelance developer, and on-the-job training |
 | **Location** | Bayawan City, Negros Oriental, Philippines |
 
 ---
