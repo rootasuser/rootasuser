@@ -125,20 +125,26 @@ My goal is to develop practical, user-friendly, and maintainable solutions that 
 
 ## Technical Skills & Integrations
 
-### 1. Supabase & Database Integration
+### 1. Database & Backend Integration
 
 - Use Supabase as a managed backend for database operations, authentication, and application data.
-- Work with PostgreSQL-based databases for web applications.
+- Work with PostgreSQL and MySQL databases for web applications.
+- Use SQLite for local, offline database operations in mobile and desktop applications.
+- Implement local database persistence using Room and SQLite in Android applications.
 - Integrate Supabase with React applications using `@supabase/supabase-js`.
 - Configure authentication flows and database access policies.
-- Documentation: https://supabase.com/docs
+- Documentation:
+  - Supabase: https://supabase.com/docs
+  - MySQL: https://dev.mysql.com/doc/
+  - SQLite: https://www.sqlite.org/docs.html
+  - Android Room: https://developer.android.com/training/data-storage/room
 
 ### 2. Authentication & Social Login
 
-- Integrate email-and-password authentication.
-- Implement Google and GitHub sign-in using OAuth-based authentication flows.
+- Implement email-and-password authentication.
+- Integrate Google and GitHub sign-in using OAuth-based authentication flows.
 - Configure OAuth applications, callback URLs, and provider credentials.
-- Manage user sessions and authentication state.
+- Manage user sessions and authentication states.
 - Apply appropriate access controls and database security policies.
 - Documentation:
   - Google Identity: https://developers.google.com/identity
@@ -155,30 +161,39 @@ My goal is to develop practical, user-friendly, and maintainable solutions that 
 
 ### 4. SEO Optimization & Google Search Console
 
-- Configure essential SEO metadata, including page titles and meta descriptions.
+- Configure SEO metadata, including page titles and meta descriptions.
 - Set up website ownership verification in Google Search Console.
 - Submit XML sitemaps to help search engines discover website pages.
 - Monitor indexing status and search performance.
 - Apply SEO fundamentals to improve website discoverability.
 - Documentation: https://search.google.com/search-console/about
 
-### 5. Third-Party Chatbot Integration
+### 5. Google Apps Script & Workflow Automation
+
+- Use Google Apps Script to automate supported Google Workspace workflows.
+- Create scripts for Google Forms and Google Sheets integrations.
+- Process form submissions and organize collected data.
+- Automate repetitive tasks using event-driven triggers where appropriate.
+- Integrate supported Google services using Apps Script APIs.
+- Documentation: https://developers.google.com/apps-script
+
+### 6. Third-Party Chatbot Integration
 
 - Integrate chatbot widgets from external platforms into websites.
-- Embed supported chatbot scripts or widgets into website interfaces.
+- Embed supported chatbot scripts and widgets into website interfaces.
 - Connect applications to chatbot services through APIs where supported.
-- Configure webhooks and server-side endpoints when required by the platform.
-- Customize chatbot placement and appearance to fit the website layout.
+- Configure webhooks and server-side endpoints when required.
+- Customize chatbot placement and appearance to fit website layouts.
 - Test chatbot functionality across supported devices and screen sizes.
 
-### 6. Third-Party API Integration
+### 7. Third-Party API Integration
 
 - Connect web applications with external services through REST APIs.
 - Work with HTTP requests, API responses, authentication credentials, and error handling.
 - Integrate third-party platforms according to their API documentation.
 - Store secret API credentials securely on the server instead of exposing them in frontend code.
 
-### 7. PayPal Payment Integration
+### 8. PayPal Payment Integration
 
 - Integrate PayPal as an online payment option where required.
 - Work with the PayPal JavaScript SDK and REST API.
@@ -186,26 +201,28 @@ My goal is to develop practical, user-friendly, and maintainable solutions that 
 - Verify payment status and webhook signatures before updating transaction records.
 - Documentation: https://developer.paypal.com
 
-### 8. Development & Deployment Workflow
+### 9. Development & Deployment Workflow
 
 - **Visual Studio Code:** Code editing, debugging, and project development.
 - **XAMPP:** Local PHP, Apache, and MySQL development.
 - **Git & GitHub:** Version control, source code management, and collaboration.
 - **npm:** JavaScript package management and frontend build workflows.
-- **Vercel:** Deployment and hosting for supported frontend applications.
+- **Vercel:** Deployment and hosting for supported web applications.
 - **Chrome DevTools:** Inspect network requests, debug errors, and analyze website performance.
+- **Android Studio:** Native Android application development using Kotlin and Jetpack Compose.
 
-### 9. WebRTC & Real-Time Communication
+### 10. WebRTC & Real-Time Communication
 
-- Understand WebRTC for real-time peer-to-peer audio, video, and data communication.
-- Explore its use in browser-based communication applications.
+- Explore WebRTC for real-time peer-to-peer audio, video, and data communication.
+- Apply real-time communication technologies to browser-based chat and video calling applications.
+- Understand the role of STUN servers in helping establish peer-to-peer connections.
 - Documentation: https://webrtc.org/
 
 ---
 
 ## Featured Projects
 
-### Dunong Clash
+### 1. Dunong Clash
 
 A web-based quiz platform designed for interactive two-player quiz battles.
 
@@ -214,7 +231,33 @@ A web-based quiz platform designed for interactive two-player quiz battles.
 - **Live Demo:** https://dunongclash.vercel.app/
 - **Repository:** https://github.com/rootasuser/DunongClash
 
-### Paperless Document Tracking System
+### 2. Imengle
+
+A web-based dating and matching platform where users can discover potential matches, chat, and start video calls.
+
+- **Technologies:** React, JavaScript, Vite, and web-based real-time communication technologies
+- **Features:** User matching, online chat, and video calling.
+- **Live Demo:** https://imengle.vercel.app/
+
+### 3. Kasalig — Inventory & POS Mobile Application
+
+A simple native Android inventory and Point of Sale (POS) application designed to support basic inventory management and sales operations.
+
+- **Technologies:** Kotlin, Jetpack Compose, Room, SQLite
+- **Platform:** Android
+- **Focus:** Basic product inventory management, local database storage, and POS functionality.
+- **Key Feature:** Designed for local, offline data storage using SQLite and Room.
+
+### 4. InvPOS — Inventory & POS Mobile Application
+
+A separate simple mobile inventory and Point of Sale (POS) application with a different set of features from Kasalig.
+
+- **Technologies:** Kotlin, Android
+- **Platform:** Android
+- **Focus:** Inventory tracking and point-of-sale operations.
+- **Note:** InvPOS and Kasalig are separate projects with different feature sets.
+
+### 5. Paperless Document Tracking System
 
 A web-based document tracking and management system designed to make document workflows more organized and efficient.
 
@@ -222,7 +265,7 @@ A web-based document tracking and management system designed to make document wo
 - **Focus:** Document tracking, workflow management, and system performance optimization.
 - **Repository:** https://github.com/rootasuser/paperless-dts
 
-### Task Management System
+### 6. Task Management System
 
 A web application for organizing tasks and managing work progress through a structured workflow.
 
@@ -231,6 +274,7 @@ A web application for organizing tasks and managing work progress through a stru
 - **Repository:** https://github.com/rootasuser/task-management-system
 
 ---
+
 
 ## Professional Experience
 
